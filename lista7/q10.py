@@ -1,0 +1,1 @@
+[print(i**3 + 3*i**2 + 2*i) for i in range(10)]

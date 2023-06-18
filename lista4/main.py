@@ -7,4 +7,4 @@ print("||||||||||||| [LISTA 4] |||||||||||||", end="\n\n\n")
 #import data
 #import imc
 #import bissexto
-#import operacoes
+import operacoes

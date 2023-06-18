@@ -1,0 +1,1 @@
+print(sum([float(input()) for i in range(10)]))

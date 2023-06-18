@@ -1,0 +1,1 @@
+print(50 * 'Eu gosto de algoritmos\n', end='')
